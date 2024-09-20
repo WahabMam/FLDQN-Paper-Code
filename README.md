@@ -12,4 +12,7 @@ This repository contains the implementation code for the paper *"FLDQN: A Novel 
 
 1. Clone the repository:
    ```bash
-   git clone  
+   git clone https://github.com/WahabMam/FLDQN-Paper-Code/tree/main
+2. Navigate to the project directory:
+   cd FLDQN-Paper-Code
+
