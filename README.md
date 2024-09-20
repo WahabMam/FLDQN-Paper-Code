@@ -29,3 +29,4 @@ You need to install [SUMO](https://www.eclipse.org/sumo/) based on your operatin
 - [Download for macOS](https://sumo.dlr.de/docs/Installing/MacOS_Build.html)
 
 5. Modify the parameters in the config.yaml file to match your system's specifications and your desired settings.
+6. It is recommended to use a virtual environment to manage your dependencies and avoid conflicts with other packages on your system.
