@@ -21,11 +21,10 @@ This repository contains the implementation code for the paper *"FLDQN: A Novel 
     ```bash
     pip install -r requirements.txt
 4. Ensure you have SUMO installed version(1.14.1), as it is required for traffic simulation.
-   '''bash
-   ## Installation
-
+    
 You need to install [SUMO](https://www.eclipse.org/sumo/) based on your operating system:
 
 - [Download for Windows](https://sumo.dlr.de/docs/Installing/Windows_Build.html)
 - [Download for Linux](https://sumo.dlr.de/docs/Installing/Linux_Build.html)
 - [Download for macOS](https://sumo.dlr.de/docs/Installing/MacOS_Build.html)
+
