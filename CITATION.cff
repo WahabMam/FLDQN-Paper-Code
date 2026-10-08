@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this research code, please cite the associated paper below."
+title: "FLDQN-Paper-Code"
+type: software
+authors:
+  - family-names: Mamond
+    given-names: Abdul Wahab
+repository-code: "https://github.com/WahabMam/FLDQN-Paper-Code"
+url: "https://github.com/WahabMam/FLDQN-Paper-Code"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Mamond
+      given-names: Abdul Wahab
+    - family-names: Kundroo
+      given-names: Majid
+    - family-names: Yoo
+      given-names: Seong-Eun
+    - family-names: Kim
+      given-names: Seonghoon
+    - family-names: Kim
+      given-names: Taehong
+  title: "FLDQN: Cooperative Multi-Agent Federated Reinforcement Learning for Solving Travel Time Minimization Problems in Dynamic Environments Using SUMO Simulation"
+  journal: Sensors
+  year: 2025
+  volume: "25"
+  issue: "3"
+  start: "911"
+  doi: "10.3390/s25030911"
+  url: "https://doi.org/10.3390/s25030911"
